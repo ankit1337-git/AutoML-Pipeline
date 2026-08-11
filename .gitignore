@@ -1,6 +1,11 @@
-.virtual_documents/
+# Jupyter
 .ipynb_checkpoints/
+.virtual_documents/
+
+# Python
 __pycache__/
 venv/
 .venv/
+
+# Environment variables
 .env
