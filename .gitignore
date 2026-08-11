@@ -1,0 +1,6 @@
+.virtual_documents/
+.ipynb_checkpoints/
+__pycache__/
+venv/
+.venv/
+.env
